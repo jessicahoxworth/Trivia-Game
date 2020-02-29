@@ -1,0 +1,57 @@
+body {
+    background-image: url('../images/thor-alvis-sgrCLKYdw5g-unsplash.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center; 
+}
+
+h1 {
+    color: beige;
+    font-weight: 400;
+    font-size: 50px;
+
+}
+
+h6 {
+  color: beige;
+  font-weight: 400;
+  font-size: 30px;
+
+}
+
+#bgContainer {
+  width: 960px;
+  min-height: 80%;
+  box-sizing: border-box;
+  padding: 5% 0;
+  margin: 5% auto;
+  background-color: #11111a;
+  opacity: 95%;
+  font-family: sans-serif;
+  color: beige;
+  
+
+}
+
+#qContainer {
+  position: relative;
+  top: 20%;
+  bottom: 20%;
+ line-height: 2rem;
+
+}
+
+button {
+  display: block;
+  width: 200px;
+  height: 70px;
+  margin: 20px auto;
+  font-size: 30px;
+  color: beige;
+  background: transparent;
+  border: 5;
+}
+
+button:hover {
+background-color: #0b0b13;
+}
